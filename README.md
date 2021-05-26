@@ -3,7 +3,7 @@
 This is a Covid-19 Tracker app built using ReactJs.
 
 -It shows Active Cases, Recovered, Deaths data of all countries. (Clickable tabs)\
--Shows historical data / fluctuatios over days of cases, recovery, deaths in a Chart.\
+-Shows historical data / fluctuations over days of cases, recovery, deaths in a Chart.\
 -Shows list of countries based on their cases.\
 -And a Map with clickable markers which shows country stats.
 
