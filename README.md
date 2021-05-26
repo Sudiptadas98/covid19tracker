@@ -8,4 +8,5 @@ This is a Covid-19 Tracker app built using ReactJs.
 -And a Map with clickable markers which shows country stats.
 
 Deployed on heroku:- https://covid19-tracker-reactapp.herokuapp.com/ 🔥
+
 ![covid19trackerSS](https://user-images.githubusercontent.com/49415163/119648012-94e1ae00-be3e-11eb-8e78-b3d163c77b22.png)
